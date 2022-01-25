@@ -1,3 +1,5 @@
+#FastConsole
+
     What is FastConsole ?
 
 FastConsole is a plugin allowing you to make your server console more readable by removing some messages sent either by plugins or by the spigot. It will also allow you to have better server logs and to really use them!
